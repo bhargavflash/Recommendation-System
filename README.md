@@ -1,1 +1,1 @@
-# Building a Basic Recommendation Engine using weighted average of ratings
+# Building a Basic Recommendation Engine using weighted average of ratings and correlation
